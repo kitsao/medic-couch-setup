@@ -20,3 +20,4 @@ E.g.
 > COUCH_NODE_NAME=couchdb@localhost COUCH_URL=http://admin:pass@localhost:5984/medic horti --local --bootstrap=3.2.1
 
 9. Wait for the installation to be boostrapped. Access the installation from http://localhost:5988
+10. You can access Fauxton via http://localhost:5988/_utils
