@@ -1,0 +1,8 @@
+{
+  "name": "setup-couch",
+  "version": "0.0.1",
+  "devDependencies": {
+    "grunt": "~1.0.3",
+    "grunt-exec": "^3.0.0"
+  }
+}
