@@ -13,7 +13,7 @@ Adapted from https://github.com/medic/medic
 5. Clone this repository and run `npm install` in the repository directory and cd into the directory
 6. Install `grunt-cli` globally: `npm install -g grunt-cli`
 7. Execute `grunt secure-couchdb`
-8. Lauch a medic installation
+8. Lauch a medic installation (re-use the same command the next time you want to launch the setup)
 > COUCH_NODE_NAME=couchdb@localhost COUCH_URL=http://admin:pass@localhost:5984/medic horti --local --bootstrap=medic-version-you-want-to-install
 
 E.g.
