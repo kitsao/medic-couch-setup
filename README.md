@@ -1,4 +1,3 @@
-# !!!DEPRECATED!!!!
 The repository has been archived in favour of https://github.com/medic/cht-core/blob/master/INSTALL.md
 
 # medic-couch-setup
